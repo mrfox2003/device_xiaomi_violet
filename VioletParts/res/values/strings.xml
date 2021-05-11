@@ -181,4 +181,8 @@
     <!-- Ambient Display -->
     <string name="ambient_display_xiaomi">Xiaomi Doze</string>
     <string name="advanced_doze_summary">Ambient display</string>
+
+    <!-- End Profiles -->
+    <string name="end_explanation"></string>                             
+    <string name="end_explanation_summary"><b>If you like my works:</b> take a cup of <a href="coffe">coffe</a></string>
 </resources>
