@@ -354,6 +354,10 @@ PRODUCT_PACKAGES += \
     NoCutoutOverlay \
     NotchBarKiller
 
+# Packages
+PRODUCT_PACKAGES += \
+    GoogleCameraGo
+
 # Perf
 PRODUCT_PACKAGES += \
     libqti-perfd-client \
