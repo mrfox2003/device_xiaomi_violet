@@ -1,6 +1,6 @@
 #
 # Copyright (C) 2018-2020 The LineageOS Project
-# Copyright (C) 2021 The TenX Project
+# 
 #
 # SPDX-License-Identifier: Apache-2.0
 #
@@ -19,7 +19,7 @@ $(call inherit-product, vendor/xiaomi/violet/violet-vendor.mk)
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay \
-    $(LOCAL_PATH)/overlay-tenx
+    $(LOCAL_PATH)/overlay-banana
 
 PRODUCT_ENFORCE_RRO_TARGETS := *
 PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += \
